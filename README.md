@@ -22,8 +22,8 @@ This repo contains the source code and instructions to reproduce the results of 
 
 ### Clone this repository
 ```
-git clone https://github.com/lkfo415579/NBCL-marian
-cd NBCL-marian
+git clone https://github.com/NLP2CT/norm-nmt
+cd norm-nmt
 mkdir build
 cd build
 cmake ..
